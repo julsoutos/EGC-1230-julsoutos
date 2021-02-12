@@ -13,7 +13,7 @@ from django.core.exceptions import ObjectDoesNotExist
 
 from .serializers import UserSerializer
 
-
+#Prueba
 class GetUserView(APIView):
     def post(self, request):
         key = request.data.get('token', '')
