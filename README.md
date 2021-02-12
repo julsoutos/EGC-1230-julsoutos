@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.com/wadobo/decide.svg?branch=master)](https://travis-ci.com/wadobo/decide) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wadobo/decide&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&utm_medium=referral&utm_content=wadobo/decide&utm_campaign=Badge_Coverage)
+[![Build Status](https://travis-ci.com/julsoutos/EGC-1230-julsoutos.svg?branch=main)](https://travis-ci.com/github/julsoutos/EGC-1230-julsoutos)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/36e0a50da8664bbfacc77978be14295a)](https://www.codacy.com/gh/julsoutos/EGC-1230-julsoutos/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=julsoutos/EGC-1230-julsoutos&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/36e0a50da8664bbfacc77978be14295a)](https://www.codacy.com/gh/julsoutos/EGC-1230-julsoutos/dashboard?utm_source=github.com&utm_medium=referral&utm_content=julsoutos/EGC-1230-julsoutos&utm_campaign=Badge_Coverage)
+
 
 Plataforma voto electrónico educativa
 =====================================
